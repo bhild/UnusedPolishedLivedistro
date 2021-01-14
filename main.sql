@@ -22,4 +22,4 @@ SELECT avg(num_pages) AS avg_pages From books;
 
 .print
 .print 'books read'
-.print * FROM books
+SELECT * FROM books
